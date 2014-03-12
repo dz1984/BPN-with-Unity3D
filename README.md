@@ -1,8 +1,14 @@
-BPN-with-Unity3D
-================
+# BPN-with-Unity3D
 
+## Summary
 
+1. BPN基本概念。
+2. 如何實作BPN，並應用在遊戲裡。
+3. 提供一個使用BPN決策的DEMO NPC。
 
+有興趣者歡迎到我Blog，參考[1984年產物: 倒傳遞神經網路(BACKPROPAGATION NETWORK, BPN)](http://bit.ly/1gpfXVt)這篇文章。
+
+## License
 The MIT License (MIT)
 
 Copyright (c) 2013 DonaldIsFreak
